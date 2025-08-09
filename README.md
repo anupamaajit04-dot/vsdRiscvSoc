@@ -1,4 +1,4 @@
-=======TASK!=======
+=======TASK 1=======
 1. Source File: unique_test.c
 
 2. Compile Command Used: riscv64-unknown-elf-gcc -O2 -Wall -march=rv64imac -mabi=lp64 \
@@ -13,6 +13,7 @@ Host: vsdworkshop2
 UniqueID: 0xfa476d8f90315613  
 GCC_VLEN: 6  
 =======TASK 2========
+
 1)output of spike version:
 spike --version
 spike 1.1.0
